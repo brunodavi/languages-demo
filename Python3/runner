@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+script="$1"
+
+# Edit the runner for that language
+python3 "$script"
+
